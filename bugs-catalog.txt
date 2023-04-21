@@ -1,5 +1,4 @@
-BUG #_._
-DATE: MM/DD/YY
-ISSUE:
-PROGRESS:
-RESOLVED: ✓ ✕
+BUG #1.0
+DATE: 04/21/23
+ISSUE: Couldn't get **animated menu bar** code to work with **static menu bar** code. Had to remove **animated menu bar** code only to find out now **static menu bar** car wouldn't work. Had to rewrite entire **static menu bar** code. Works.
+RESOLVED: ✓ 
