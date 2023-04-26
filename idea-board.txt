@@ -31,3 +31,18 @@ FOOTER (always present)
 - email
 - socials
 - a gif of a cute bear sitting on the floor slurping on boba
+
+
+COLORS
+#DFD3C2 - light tan
+#DFCFB5 - darker light tan
+#DABA9E - light brown
+#C29361 - darker light brown
+#D6AE7E - vivid brown
+#C69468 - darker vivid brown
+#794932 - dark brown
+#6B8375 - dark dull green
+#92B29B - dull green
+#C6E3C5 - light vivid green
+#B2C8A2 - light forest green
+#98B28F - forest green

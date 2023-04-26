@@ -1,0 +1,15 @@
+BY APRIL 26
+- complete website (basic - no special features)
+- complete 1 game (basic - simple catching game)
+- complete 1 app (basic - club workshop-based)
+- complete election speech
+- add projects to site (art and websites)
+
+BY END OF JUNE
+- complete website (intermediate - some special features)
+- complete games (intermediate - interactive story game)
+- complete apps (intermediate - tracking-based)
+
+BY END OF AUGUST
+- complete website (difficult - all special features)
+- complete games (difficult - simulation game)
