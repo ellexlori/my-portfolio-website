@@ -1,0 +1,46 @@
+NAVBAR (always present)
+- feature: animated navbar only for smaller screens where users click the honeycomb icon (currently a hamburger) and little bees fly out, landing on the navbar, and causing words/links to appear.
+- responsive topnav: https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
+- search bar: https://www.w3schools.com/howto/howto_css_searchbar.asp
+- favicon: https://www.w3schools.com/howto/howto_html_favicon.asp
+
+INDEX (home page)
+- feature: interactive image where users click a specific area of the image, and the image will zoom in showing a new image within magnified area.
+
+ABOUT
+- feature: interactive slideshow where users click on a letter to get to a specific "slide" of the presentation. If left alone for more than a minute, slideshow will begin automatically.
+- slideshow/carousal: https://www.w3schools.com/howto/howto_js_slideshow.asp
+
+CONTACT
+- feature: interactive chat room where users go through a pre-prepared conversation using the provided message options.
+- feature: a contact section where users can send an email to me. when users click send, the section will turn into an animation of a bear walking in and tieing the message to a bunch of bees which fly off. 
+
+
+ART + CODE
+- feature: sort through projects (digital, submitted, sketchbook)
+feature: when users hover over a project, a animation begins where a paintbrush paints over the icon before the icon is highlighted (shaded)
+- feature: when users hover over a project, a animation begins where 1s and 0s fill the project icon before the icon is highlighted (shaded)
+- icon list of all uploaded projects
+- button group: https://www.w3schools.com/howto/howto_css_button_group.asp
+- image overlay fade: https://www.w3schools.com/howto/howto_css_image_overlay.asp
+- responsive image grid: https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp
+- portfolio gallery: https://www.w3schools.com/howto/howto_css_portfolio_gallery.asp
+- pagination: https://www.w3schools.com/howto/howto_css_pagination.asp
+
+FOOTER (always present)
+- reponsive images: https://www.w3schools.com/howto/howto_css_image_responsive.asp
+
+
+COLORS
+#DFD3C2 - light tan
+#DFCFB5 - darker light tan
+#DABA9E - light brown
+#C29361 - darker light brown
+#D6AE7E - vivid brown
+#C69468 - darker vivid brown
+#794932 - dark brown
+#6B8375 - dark dull green
+#92B29B - dull green
+#C6E3C5 - light vivid green
+#B2C8A2 - light forest green
+#98B28F - forest green

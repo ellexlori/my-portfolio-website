@@ -1,9 +1,6 @@
 BY APRIL 26
-- complete website (basic - no special features)
-- complete 1 game (basic - simple catching game)
-- complete 1 app (basic - club workshop-based)
-- complete election speech
-- add projects to site (art and websites)
+- complete website (basic - no special features) (project 1)
+- update EqualHistory website (project 2)
 
 BY END OF JUNE
 - complete website (intermediate - some special features)
