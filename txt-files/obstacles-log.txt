@@ -1,0 +1,29 @@
+OBSTACLE #1
+DATE: 04/21/23
+DETAILS: Couldn't add an animated fa-fa-bars feature.
+UPDATE: Had to revert to static fa-fa-bars.
+RESOLVED: ✕
+
+OBSTACLE #2
+DATE: 04/26/23
+DETAILS: Couldn't apply CSS code to any html file but the index. All code works with no errors.
+UPDATE: Added ../ before each file link.
+RESOLVED: ✓ 
+
+OBSTACLE #3
+DATE: 04/27/23
+DETAILS: Couldn't access pages through nav because "web-content" was remaining in the url for all pages.
+UPDATE: Added ../ before each file link.
+RESOLVED: ✓ 
+
+OBSTACLE #4
+DATE: 04/27/23
+DETAILS: Couldn't add an image-based link in the nav feature.
+UPDATE: Had to revert to text-based link.
+RESOLVED: ✕
+
+OBSTACLE #_
+DATE: _/_/_
+DETAILS: 
+UPDATE: 
+RESOLVED: ✓ ✕
